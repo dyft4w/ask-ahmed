@@ -1,0 +1,29 @@
+# Ask Ahmed
+
+A Handly little buddy to ask if a file is ok
+
+# Installation
+
+Go to the [Releases](https://github.com/ErmitaVulpe/ask-ahmed/releases) page, download the latest installer and run it
+
+# Uninstalling
+
+To uninstall go to:  
+Settings > Apps > Apps & features  
+Search for `ask-ahmed` and press `Uninstall`
+
+# Changing the API key
+
+Go to the installation folder (by default `C:\Program Files\ask-ahmed`) and edit the `settings.ini` file
+
+# Showcase
+
+![alt text](https://github.com/ErmitaVulpe/ask-ahmed/blob/master/showcase/context_menu.png "Context menu")  
+  
+![alt text](https://github.com/ErmitaVulpe/ask-ahmed/blob/master/showcase/bad.png "Bad")  
+  
+![alt text](https://github.com/ErmitaVulpe/ask-ahmed/blob/master/showcase/good.png "Good")  
+
+# License
+
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/ErmitaVulpe/ask-ahmed/blob/master/LICENSE) file for details
