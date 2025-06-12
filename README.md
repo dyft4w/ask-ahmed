@@ -1,6 +1,6 @@
 # Ask Ahmed
 
-A Handly little buddy to ask if a file is ok  
+A Handy little buddy to ask if a file is ok  
 Heavily inspired by [this reddit post](https://www.reddit.com/r/thomastheplankengine/comments/1l5zf4e/i_recreated_usignbear999s_ahmed_program_dream/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 # Installation
