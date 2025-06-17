@@ -1,0 +1,15 @@
+<action>
+	<icon></icon>
+	<name>Ask Ahmed</name>
+	<submenu></submenu>
+	<unique-id>1750121061023059-1</unique-id>
+	<command>ask-ahmed %f</command>
+	<description></description>
+	<range>1-1</range>
+	<patterns>*</patterns>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
