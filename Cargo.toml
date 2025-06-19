@@ -26,6 +26,7 @@ gtk4 = "0.9.6"
 rust-ini = "0.21.1"
 serde_json = "1.0.140"
 glib = "0.20.10"
+rascii_art = "0.4.5"
 # winapi = "0.3"
 
 [build-dependencies]
